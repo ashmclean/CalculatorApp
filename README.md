@@ -9,3 +9,5 @@ This is a simple calculator web application built with HTML, CSS, and JavaScript
 - **Delete Last Character**: Removes the last entered number or operator (`DEL` button).
 - **Evaluation**: Calculates the result when the `=` button is clicked.
 - **UI**: The calculator has a responsive and user-friendly interface.
+
+Check it out here: https://calculator-app-ashmclean.netlify.app/
